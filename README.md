@@ -8,6 +8,7 @@
 * The Simpsons
 * Ben 10
 * He Man
+* Franchela
 
 # Series actuales
 
